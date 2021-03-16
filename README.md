@@ -1,7 +1,10 @@
 ### 👋 Hi, I’m shanmukh
+
+<!---
 ### A Full-Stack Developer with a constant desire for learning and self-improvement.
 ### Connect with me
 <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+--->
 
 <br/>
 
