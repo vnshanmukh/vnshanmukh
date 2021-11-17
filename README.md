@@ -16,8 +16,8 @@
 --->
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vnshanmukh&show_icons=true&theme=tokyonight" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vnshanmukh&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vnshanmukh&show_icons=true&theme=gotham" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vnshanmukh&theme=gotham&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 
