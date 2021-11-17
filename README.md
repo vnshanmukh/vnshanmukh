@@ -14,7 +14,12 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 --->
-<img align = "left" src="https://github-readme-stats.vercel.app/api?username=vnshanmukh&theme=react&show_icons=true" />
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vnshanmukh&show_icons=true&theme=tokyonight" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vnshanmukh&theme=tokyonight" />
+</p>
+
 
 <!---
 vnshanmukh/vnshanmukh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
