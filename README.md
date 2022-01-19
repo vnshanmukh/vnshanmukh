@@ -1,6 +1,6 @@
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Shanmukh!
 
-## 🚀 About Me
+## About Me
 
 👨‍💻 I am a Python Developer and also interested in DevOps, WebDev & Cloud Computing.
 <br>
@@ -15,5 +15,5 @@
 </p>
 --->
 
-## 📌 Connect with me 
+## Connect with me 
 <a href="https://in.linkedin.com/in/shanmukh-chava-b568b718b"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
